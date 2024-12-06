@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# Build output
+/dist/
+/build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Jest
+/coverage/
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files (for example, VS Code)
+.vscode/
+
+# Environment files
+.env
